@@ -30,7 +30,7 @@ Meetings schedules for the SPDX Project are listed below. All times are listed f
 
 ## Sub-groups for specific topics
 ### Build Profile group meetings
-* Time and cadence: weekly on Mondays at 14:00
+* Time and cadence: Currently on pause (usually weekly on Mondays at 14:00)
 * Where: <https://meet.jit.si/SPDXBuildProfile>
 * Descriptions: Regular meeting to discuss and propose the SPDX build profile and other adjacent elements.
 
